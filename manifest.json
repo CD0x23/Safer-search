@@ -1,0 +1,16 @@
+{
+  "name": "Safe Search",
+  "description": "Safely search on Google",
+  "omnibox": {
+    "keyword": "ss"
+  },
+  "icons": {
+    "16": "shield.png"
+  },
+  "background": {
+    "scripts": ["app.js"]
+  },
+  "version": "0.1",
+  "minimum_chrome_version": "9",
+  "manifest_version": 2
+}
